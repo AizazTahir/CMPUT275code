@@ -1,0 +1,23 @@
+Name: Mian Aizaz Tahir
+SID: 1662795
+CCID: matahir
+CMPUT 275, Winter 2022
+
+Weekly exersise #2: idols
+
+Running Instructions:
+
+To run program simply run it inside of the terminal and for inputs give it firstly the number of elements in the array and secondly give it the the elements of the array that you want to undergo the idols reversal process
+
+Included files:
+
+idols.cpp
+README
+
+File Function:
+
+The idols function will print out all of the idols in a user inputted array and revese all of the elements between the idols. An idols is described by the following: 
+
+An idol in an array of integers is an entry that is greater than all other entries that come
+after it. Specifically, we say that a[i] is an idol in an array a if a[i] > a[j] for all other indice 
+j > i in the array.

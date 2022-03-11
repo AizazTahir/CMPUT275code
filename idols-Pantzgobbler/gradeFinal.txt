@@ -1,0 +1,52 @@
+Name:	Mian Aizaz Tahir
+SID:	1662795
+Correctness marking TA:	Jiaqi
+Style marking TA: Taylor Folkersen
+
+CMPUT 275 - Intro to Tangible Computing II Winter 2022
+Marking Guidelines for Weekly Exercise #2: Idols
+
+-------------------------------------------------------------------------
+Total:			99/100
+
+-------------------------------------------------------------------------
+Correctness :		70/70
+
+- 70/70: Pass all of the provided and new (i.e., holdout) test inputs. Considera-
+tion will be made for documented reasonable design decisions, if the provided
+test inputs are handled correctly.
+
+- 60/70: Pass all of the provided test and any new (i.e., holdout) test inputs.
+
+- 50/70: Pass all of the provided test inputs
+
+- 20/70: Pass any of the provided test inputs
+
+-------------------------------------------------------------------------
+Style and Design :   20/20
+
+- 20/20: Meets all style and design requirements discussed in the Code Submission
+and Style Guidelines (on eClass)
+
+- 10/20: Meets most (but not all) style and design requirements
+
+- 5/20: Meets some (but not all) style and design requirements Code Submission
+and Style Guidelines (on eClass)
+
+-------------------------------------------------------------------------
+README :		4/5
+
+- 5/5: Correctly contains all of the required information, and in the right format,
+as described in the Code Submission and Style Guidelines, Chapter 2 (on eClass).
+
+- 0 to 4/5: Deductions for missing name, CCID, student number, course name,
+etc. NOTE: CCID is now required and marked.
+
+-------------------------------------------------------------------------
+Submission :		5/5
+
+- 15/15: Submission validator outputs VALIDATION SUCCEEDED. Otherwise, 0/5.
+
+
+------------------Feedback below-------------------------
+-1: missing running instructions in README (how should the code be compiled and invoked?)
