@@ -1,0 +1,31 @@
+Name: Mian Aizaz Tahir
+SID: 1662795
+CCID: matahir
+CMPUT 275, Winter 2022
+
+Weekly exersise #6: Graph concepts
+
+Makefile Targets :
+- make we6_solution: Builds the project creating the executable we6_solution 
+- make clean : Removes all object files and executables
+- make digraph.o: compiles the digraph.cpp file
+- make graph_concepts.o: complies the graph_concepts.cpp file
+
+Running Instructions:
+
+To run the program simply run the make command and the code will automatically compile and run all on its own
+
+
+Included files:
+
+digraph.cpp
+Digraph.h
+Edmonton-roads-2.0.1.txt
+graph_concepts.cpp
+Makefile
+README
+
+File function:
+
+This file will read from a file and create an undirected graph that represents the map that was in the file. It will then output the number of connected components in that graph. 
+
