@@ -1,0 +1,5 @@
+/
+/dir1 f1 f3
+/dir1/newdir filename
+/dir1/newdir/newsubdir newfile
+/dir2 f1 f2

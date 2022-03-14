@@ -1,0 +1,14 @@
+13
+cd dir1
+ls f3
+ls f1
+cd ..
+cd dir2
+ls f1
+ls f2
+cd ..
+cd dir1
+cd newdir
+ls filename
+cd newsubdir
+ls newfile

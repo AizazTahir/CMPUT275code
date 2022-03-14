@@ -1,0 +1,21 @@
+Name: Mian Aizaz Tahir
+SID: 1662795
+CCID: matahir
+CMPUT 275, Winter 2022
+
+Weekly exersise #6: Bash history
+
+Running Instructions:
+
+To run the program simply run the make command in the terminal from the bash_history-AizazTahir directory 
+
+Included files:
+
+bash_history.cpp
+bash_history.sh
+README
+
+File function:
+
+This file will keep track of the bash history given to it and will print out the contents of the bash to std output
+

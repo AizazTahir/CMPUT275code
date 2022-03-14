@@ -1,0 +1,7 @@
+/ f1 myfile
+/dir1 f2 f3 testfile
+/dir1/subdir1 f2
+/dir1/subdir1/subsubdir1
+/dir1/subdir2 f3
+/dir2
+/dir2/subdir3

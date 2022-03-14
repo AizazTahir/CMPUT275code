@@ -1,0 +1,19 @@
+18
+ls f1
+cd dir1
+ls f2
+cd subdir2
+ls f3
+cd ..
+ls testfile
+ls f2
+ls f3
+cd subdir1
+ls f2
+cd subsubdir1
+cd ..
+cd ..
+cd ..
+ls myfile
+cd dir2
+cd subdir3

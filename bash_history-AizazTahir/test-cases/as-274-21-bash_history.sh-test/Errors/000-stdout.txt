@@ -1,0 +1,8 @@
+bash_history.cpp:40:25: error: use of undeclared identifier 'map_history'
+    for (auto& my_map : map_history) { 
+                        ^
+1 error generated.
+chmod: bash_history: No such file or directory
+/Users/aizaztahir/Desktop/bash_history-AizazTahir/soln/.build/build.sh: line 8: ./bash_history: No such file or directory
+
+Expected file "test-cases/as-274-21-bash_history.sh-test/Expected/000-stdout.txt" has no output file match
